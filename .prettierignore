@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# build output
+dist
+build
+
+# tooling & config
+eslint.config.mjs
+vite.config.ts
+
+# coverage & cache
+coverage
+.cache
+
+# misc
+.env
+.env.*

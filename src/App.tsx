@@ -1,5 +1,4 @@
-
-import './App.css'
+import './App.css';
 
 function App() {
 
@@ -7,7 +6,7 @@ function App() {
     <>
       <div>Typescript React Project</div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
